@@ -16,6 +16,7 @@ public class WriteIFs
        } else {
            displayGameOver(player1);
        }
+       
         // and if that’s false, calls “displayGameOver(player1)”
      
     }
